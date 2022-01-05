@@ -9,7 +9,7 @@ To build an Online Admission system to computerize Admission procedure for an In
 7) Post common admission letter 
 
 OOPS principles covered:
-9) Single Responsibility Principle
-10) Open-Closed Principle
-11) Liskov Substitution Principle
-12) Inheritance
+1) Single Responsibility Principle
+2) Open-Closed Principle
+3) Liskov Substitution Principle
+4) Inheritance
